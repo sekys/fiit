@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1355328982 source:c:\users\seky\desktop\papp-master\examples\opengl\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<math.h>
+	<iostream>
+	<time.h>
+	<fstream>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/freeglut_ext.h>
+	"font.h"
+	"roller.h"
+	"draw.h"
+
+1355169204 c:\users\seky\desktop\papp-master\examples\opengl\font.h
+	<stdarg.h>
+
+1355167976 c:\users\seky\desktop\papp-master\examples\opengl\roller.h
+
+1355169356 c:\users\seky\desktop\papp-master\examples\opengl\draw.h
+	<windows.h>
+	<gl\gl.h>
+	<gl\glu.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+
