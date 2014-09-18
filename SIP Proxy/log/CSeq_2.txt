@@ -1,0 +1,225 @@
+Request:
+REGISTER sip:local SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPje3c8c46b6d194927ba15daac9aa89aeb;received=192.168.10.155
+Max-Forwards: 70
+From: "Mikado" <sip:201@local>;tag=2510201dafcc4cb2859e8d5062a9093e
+To: "Mikado" <sip:201@local>
+Contact: <sip:bveaxiud@192.168.10.155:53916>;+sip.instance="<urn:uuid:799c3c19-d513-4080-9576-472cad8a690e>"
+Call-ID: 67cf3edf596d44f1ace63d995936a879
+CSeq: 2 REGISTER
+Expires: 3600
+User-Agent: Blink 0.2.10 (Windows)
+Authorization: Digest response="aac1b67b3df2aac3025123bb4ef86ee0",username="201",nonce="61f9e53ef96c7e8b925c8e230b17c2c5",realm="local.sk",uri="sip:local",algorithm=MD5
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 200 OK
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPje3c8c46b6d194927ba15daac9aa89aeb;received=192.168.10.155
+From: "Mikado" <sip:201@local>;tag=2510201dafcc4cb2859e8d5062a9093e
+To: "Mikado" <sip:201@local>
+Call-ID: 67cf3edf596d44f1ace63d995936a879
+CSeq: 2 REGISTER
+Content-Length: 0
+
+
+Request:
+REGISTER sip:local SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.159:55348;rport=55348;branch=z9hG4bKPj039047365260475dbc9490d8dfbbee3b;received=192.168.10.159
+Max-Forwards: 70
+From: "Dokonaly" <sip:200@local>;tag=7f3784ec35974c0e9ab71b5d4b5585ed
+To: "Dokonaly" <sip:200@local>
+Contact: <sip:sbknelqy@192.168.10.159:55348>;+sip.instance="<urn:uuid:341d76b1-1ecf-4169-bcae-f255649cfaa9>"
+Call-ID: 8fb35592acfa4f7eaac63d240818777a
+CSeq: 2 REGISTER
+Expires: 3600
+User-Agent: Blink 0.2.10 (Windows)
+Authorization: Digest response="4c269b63aa1317740d239676162260b2",username="200",nonce="9ba73bdc9076b2be7c93b731c0f300f7",realm="local.sk",uri="sip:local",algorithm=MD5
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 200 OK
+Via: SIP/2.0/UDP 192.168.10.159:55348;rport=55348;branch=z9hG4bKPj039047365260475dbc9490d8dfbbee3b;received=192.168.10.159
+From: "Dokonaly" <sip:200@local>;tag=7f3784ec35974c0e9ab71b5d4b5585ed
+To: "Dokonaly" <sip:200@local>
+Call-ID: 8fb35592acfa4f7eaac63d240818777a
+CSeq: 2 REGISTER
+Content-Length: 0
+
+
+Request:
+REGISTER sip:local SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPj142fea0f190a4c518042b93b05435539;received=192.168.10.155
+Max-Forwards: 70
+From: "Mikado" <sip:201@local>;tag=1a8681e05f06489f8425d5775f6a88e7
+To: "Mikado" <sip:201@local>
+Contact: <sip:bveaxiud@192.168.10.155:53916>;+sip.instance="<urn:uuid:799c3c19-d513-4080-9576-472cad8a690e>"
+Call-ID: 958a9ab1349c49f0a7ed697759ceab74
+CSeq: 2 REGISTER
+Expires: 3600
+User-Agent: Blink 0.2.10 (Windows)
+Authorization: Digest response="d3d2b172bc73ce8ea3ba4f6c0b0a3632",username="201",nonce="11a333ee27731e1dac189b2f4a6f7942",realm="local.sk",uri="sip:local",algorithm=MD5
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 200 OK
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPj142fea0f190a4c518042b93b05435539;received=192.168.10.155
+From: "Mikado" <sip:201@local>;tag=1a8681e05f06489f8425d5775f6a88e7
+To: "Mikado" <sip:201@local>
+Call-ID: 958a9ab1349c49f0a7ed697759ceab74
+CSeq: 2 REGISTER
+Content-Length: 0
+
+
+Request:
+REGISTER sip:local SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.159:64893;rport=64893;branch=z9hG4bKPjd51f6b8a3b9c4ba0bc907da1116c8126;received=192.168.10.159
+Max-Forwards: 70
+From: "Dokonaly" <sip:200@local>;tag=90d55ec4077044e6ad6e4b70e9b24094
+To: "Dokonaly" <sip:200@local>
+Contact: <sip:ovjnekdr@192.168.10.159:64893>;+sip.instance="<urn:uuid:341d76b1-1ecf-4169-bcae-f255649cfaa9>"
+Call-ID: 9cb8443b463c41dcbd13ae56e51d14a6
+CSeq: 2 REGISTER
+Expires: 3600
+User-Agent: Blink 0.2.10 (Windows)
+Authorization: Digest response="1643e8f1387f0dae4c4ed86926d965ed",username="200",nonce="1f1920327a87b9293b41af4e4de330dd",realm="local.sk",uri="sip:local",algorithm=MD5
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 200 OK
+Via: SIP/2.0/UDP 192.168.10.159:64893;rport=64893;branch=z9hG4bKPjd51f6b8a3b9c4ba0bc907da1116c8126;received=192.168.10.159
+From: "Dokonaly" <sip:200@local>;tag=90d55ec4077044e6ad6e4b70e9b24094
+To: "Dokonaly" <sip:200@local>
+Call-ID: 9cb8443b463c41dcbd13ae56e51d14a6
+CSeq: 2 REGISTER
+Content-Length: 0
+
+
+Request:
+REGISTER sip:local SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.159:64893;rport=64893;branch=z9hG4bKPjd51f6b8a3b9c4ba0bc907da1116c8126;received=192.168.10.159
+Max-Forwards: 70
+From: "Dokonaly" <sip:200@local>;tag=90d55ec4077044e6ad6e4b70e9b24094
+To: "Dokonaly" <sip:200@local>
+Contact: <sip:ovjnekdr@192.168.10.159:64893>;+sip.instance="<urn:uuid:341d76b1-1ecf-4169-bcae-f255649cfaa9>"
+Call-ID: 9cb8443b463c41dcbd13ae56e51d14a6
+CSeq: 2 REGISTER
+Expires: 3600
+User-Agent: Blink 0.2.10 (Windows)
+Authorization: Digest response="1643e8f1387f0dae4c4ed86926d965ed",username="200",nonce="1f1920327a87b9293b41af4e4de330dd",realm="local.sk",uri="sip:local",algorithm=MD5
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 200 OK
+Via: SIP/2.0/UDP 192.168.10.159:64893;rport=64893;branch=z9hG4bKPjd51f6b8a3b9c4ba0bc907da1116c8126;received=192.168.10.159
+From: "Dokonaly" <sip:200@local>;tag=90d55ec4077044e6ad6e4b70e9b24094
+To: "Dokonaly" <sip:200@local>
+Call-ID: 9cb8443b463c41dcbd13ae56e51d14a6
+CSeq: 2 REGISTER
+Content-Length: 0
+
+
+Request:
+REGISTER sip:local SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjdaed0a798dd14e4ba18fd10b38abccbd;received=192.168.10.155
+Max-Forwards: 70
+From: "Mikado" <sip:201@local>;tag=45a6105a3fb547b389bba289e918d15a
+To: "Mikado" <sip:201@local>
+Contact: <sip:bveaxiud@192.168.10.155:53916>;+sip.instance="<urn:uuid:799c3c19-d513-4080-9576-472cad8a690e>"
+Call-ID: d4a7698f0f1548adb0da0cd58f359364
+CSeq: 2 REGISTER
+Expires: 3600
+User-Agent: Blink 0.2.10 (Windows)
+Authorization: Digest response="27deb54a76d8f2ffcb4a362d2e67a3a3",username="201",nonce="37e6e68abd07c0a3ad2d5d92b08cfe27",realm="local.sk",uri="sip:local",algorithm=MD5
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 200 OK
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjdaed0a798dd14e4ba18fd10b38abccbd;received=192.168.10.155
+From: "Mikado" <sip:201@local>;tag=45a6105a3fb547b389bba289e918d15a
+To: "Mikado" <sip:201@local>
+Call-ID: d4a7698f0f1548adb0da0cd58f359364
+CSeq: 2 REGISTER
+Content-Length: 0
+
+
+Request:
+REGISTER sip:local SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPj0d90d7563acc4f70895a3e942acbb816;received=192.168.10.155
+Max-Forwards: 70
+From: "Mikado" <sip:201@local>;tag=1a950a05dac84c2c986acbfeca7ff92d
+To: "Mikado" <sip:201@local>
+Contact: <sip:bveaxiud@192.168.10.155:53916>;+sip.instance="<urn:uuid:799c3c19-d513-4080-9576-472cad8a690e>"
+Call-ID: a1adc7b89e1c4bd3af25341746148555
+CSeq: 2 REGISTER
+Expires: 3600
+User-Agent: Blink 0.2.10 (Windows)
+Authorization: Digest response="260eb905885f5a40459d2cdd459b2dc5",username="201",nonce="c3f25940addd2a0b567511037410b9e0",realm="local.sk",uri="sip:local",algorithm=MD5
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 200 OK
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPj0d90d7563acc4f70895a3e942acbb816;received=192.168.10.155
+From: "Mikado" <sip:201@local>;tag=1a950a05dac84c2c986acbfeca7ff92d
+To: "Mikado" <sip:201@local>
+Call-ID: a1adc7b89e1c4bd3af25341746148555
+CSeq: 2 REGISTER
+Content-Length: 0
+
+
+Request:
+REGISTER sip:local SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.156:64472;rport=64472;branch=z9hG4bKPjc1b10aac24b247ba84d6c20b1e74fdf7;received=192.168.10.156
+Max-Forwards: 70
+From: "Klingac" <sip:200@local>;tag=e8125a292be946be98de8d481895ceac
+To: "Klingac" <sip:200@local>
+Contact: <sip:nlxkqrth@192.168.10.156:64472>;+sip.instance="<urn:uuid:2cc14aa8-2927-40dc-abbb-47af59d313f3>"
+Call-ID: f0c694a1e0bf4082a2202a305c6f5287
+CSeq: 2 REGISTER
+Expires: 3600
+User-Agent: Blink 0.2.10 (Windows)
+Authorization: Digest response="36cf29a868b15d3e424bbca5126fda14",username="200",nonce="428a9f0f597f2d37e187e7d7fadb6579",realm="local.sk",uri="sip:local",algorithm=MD5
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 200 OK
+Via: SIP/2.0/UDP 192.168.10.156:64472;rport=64472;branch=z9hG4bKPjc1b10aac24b247ba84d6c20b1e74fdf7;received=192.168.10.156
+From: "Klingac" <sip:200@local>;tag=e8125a292be946be98de8d481895ceac
+To: "Klingac" <sip:200@local>
+Call-ID: f0c694a1e0bf4082a2202a305c6f5287
+CSeq: 2 REGISTER
+Content-Length: 0
+
+
+Request:
+REGISTER sip:local SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.156:64472;rport=64472;branch=z9hG4bKPj155269550141401f8ac0ea0c01b40599;received=192.168.10.156
+Max-Forwards: 70
+From: "Klingac" <sip:200@local>;tag=81c2e3814abd4e2cb2f3f574778d39a8
+To: "Klingac" <sip:200@local>
+Contact: <sip:nlxkqrth@192.168.10.156:64472>;+sip.instance="<urn:uuid:2cc14aa8-2927-40dc-abbb-47af59d313f3>"
+Call-ID: d0f83b7ff8234b26b5a19ca51bb0958b
+CSeq: 2 REGISTER
+Expires: 3600
+User-Agent: Blink 0.2.10 (Windows)
+Authorization: Digest response="02e57fbfdb1b5d660f07c1655df9860a",username="200",nonce="de4fb7832958f7a6b2b005858bc20fbd",realm="local.sk",uri="sip:local",algorithm=MD5
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 200 OK
+Via: SIP/2.0/UDP 192.168.10.156:64472;rport=64472;branch=z9hG4bKPj155269550141401f8ac0ea0c01b40599;received=192.168.10.156
+From: "Klingac" <sip:200@local>;tag=81c2e3814abd4e2cb2f3f574778d39a8
+To: "Klingac" <sip:200@local>
+Call-ID: d0f83b7ff8234b26b5a19ca51bb0958b
+CSeq: 2 REGISTER
+Content-Length: 0
+
+

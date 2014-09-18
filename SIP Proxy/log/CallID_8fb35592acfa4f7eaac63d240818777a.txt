@@ -1,0 +1,78 @@
+Request:
+REGISTER sip:local SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.159:55348;rport=55348;branch=z9hG4bKPjb7b0b3ec1de84abf8509acd030e59186;received=192.168.10.159
+Max-Forwards: 70
+From: "Dokonaly" <sip:200@local>;tag=7f3784ec35974c0e9ab71b5d4b5585ed
+To: "Dokonaly" <sip:200@local>
+Contact: <sip:sbknelqy@192.168.10.159:55348>;+sip.instance="<urn:uuid:341d76b1-1ecf-4169-bcae-f255649cfaa9>"
+Call-ID: 8fb35592acfa4f7eaac63d240818777a
+CSeq: 1 REGISTER
+Expires: 3600
+User-Agent: Blink 0.2.10 (Windows)
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 192.168.10.159:55348;rport=55348;branch=z9hG4bKPjb7b0b3ec1de84abf8509acd030e59186;received=192.168.10.159
+From: "Dokonaly" <sip:200@local>;tag=7f3784ec35974c0e9ab71b5d4b5585ed
+To: "Dokonaly" <sip:200@local>
+Call-ID: 8fb35592acfa4f7eaac63d240818777a
+CSeq: 1 REGISTER
+WWW-Authenticate: Digest nonce="9ba73bdc9076b2be7c93b731c0f300f7",realm="local.sk",opaque="",stale=FALSE,algorithm=MD5
+Content-Length: 0
+
+
+Request:
+REGISTER sip:local SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.159:55348;rport=55348;branch=z9hG4bKPj039047365260475dbc9490d8dfbbee3b;received=192.168.10.159
+Max-Forwards: 70
+From: "Dokonaly" <sip:200@local>;tag=7f3784ec35974c0e9ab71b5d4b5585ed
+To: "Dokonaly" <sip:200@local>
+Contact: <sip:sbknelqy@192.168.10.159:55348>;+sip.instance="<urn:uuid:341d76b1-1ecf-4169-bcae-f255649cfaa9>"
+Call-ID: 8fb35592acfa4f7eaac63d240818777a
+CSeq: 2 REGISTER
+Expires: 3600
+User-Agent: Blink 0.2.10 (Windows)
+Authorization: Digest response="4c269b63aa1317740d239676162260b2",username="200",nonce="9ba73bdc9076b2be7c93b731c0f300f7",realm="local.sk",uri="sip:local",algorithm=MD5
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 200 OK
+Via: SIP/2.0/UDP 192.168.10.159:55348;rport=55348;branch=z9hG4bKPj039047365260475dbc9490d8dfbbee3b;received=192.168.10.159
+From: "Dokonaly" <sip:200@local>;tag=7f3784ec35974c0e9ab71b5d4b5585ed
+To: "Dokonaly" <sip:200@local>
+Call-ID: 8fb35592acfa4f7eaac63d240818777a
+CSeq: 2 REGISTER
+Content-Length: 0
+
+
+Request:
+REGISTER sip:local SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.159:55348;rport=55348;branch=z9hG4bKPjf8a69630740647398bd13c19202aec3c;received=192.168.10.159
+Max-Forwards: 70
+From: "Dokonaly" <sip:200@local>;tag=9ea12a92b5074fb4a0716c05729498c8
+To: "Dokonaly" <sip:200@local>
+Contact: <sip:sbknelqy@192.168.10.159:55348>;+sip.instance="<urn:uuid:341d76b1-1ecf-4169-bcae-f255649cfaa9>"
+Call-ID: 8fb35592acfa4f7eaac63d240818777a
+CSeq: 3 REGISTER
+Expires: 0
+User-Agent: Blink 0.2.10 (Windows)
+Content-Length: 0
+
+
+Request:
+REGISTER sip:local SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.159:55348;rport=55348;branch=z9hG4bKPjf8a69630740647398bd13c19202aec3c;received=192.168.10.159
+Max-Forwards: 70
+From: "Dokonaly" <sip:200@local>;tag=9ea12a92b5074fb4a0716c05729498c8
+To: "Dokonaly" <sip:200@local>
+Contact: <sip:sbknelqy@192.168.10.159:55348>;+sip.instance="<urn:uuid:341d76b1-1ecf-4169-bcae-f255649cfaa9>"
+Call-ID: 8fb35592acfa4f7eaac63d240818777a
+CSeq: 3 REGISTER
+Expires: 0
+User-Agent: Blink 0.2.10 (Windows)
+Content-Length: 0
+
+

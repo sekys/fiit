@@ -1,0 +1,2 @@
+Cas: Thu May 09 16:32:38 CEST 2013 Sprava: Senzor:Hasic alarm. zapinam
+Cas: Thu May 09 16:32:42 CEST 2013 Sprava: Senzor:Hasic alarm. vypinam

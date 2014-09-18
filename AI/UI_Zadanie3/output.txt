@@ -1,0 +1,309 @@
+0(0)	0(1)	0(2)	0(3)	0(4)	0(5)	0(6)	
+0(7)	0(8)	0(9)	0(10)	1(11)	0(12)	0(13)	
+0(14)	0(15)	1(16)	0(17)	0(18)	0(19)	0(20)	
+0(21)	0(22)	0(23)	0(24)	0(25)	0(26)	1(27)	
+0(28)	1(29)	0(30)	0(31)	0(32)	0(33)	0(34)	
+0(35)	0(36)	0(37)	0(38)	1(39)	0(40)	0(41)	
+0(42)	0(43)	0(44)	2(45)	0(46)	0(47)	0(48)	
+Generacia c. 0 najlepsi fitness 3.0075
+Cesta zaciatok.
+ H L P H L P H L D H L D H L D H P H L H H D H D H D H D H P L P L D P D D H P D D H P D D H P D D H P D H P D H D H D H D H D H D H D H D H D H D H D H D H D H
+Cesta koniec.
+Generacia c. 10 najlepsi fitness 4.00792
+Cesta zaciatok.
+ H L H P L D L H P P H L H P P H L P P D L L D L P D L D L P L D H L P P D H H D H L H P D H P P D H L D P P P D D H D H H D D H H D D H H H H H H L P D D L H H P D L H P D D D D
+Cesta koniec.
+Generacia c. 20 najlepsi fitness 5.031935483870968
+Cesta zaciatok.
+ H L H P L D L H P P H L H P P H D P P D D L H D D D H L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 30 najlepsi fitness 5.031935483870968
+Cesta zaciatok.
+ H L H P L D L H P P H L H P P H D P P D D L H D D D H L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 40 najlepsi fitness 5.031935483870968
+Cesta zaciatok.
+ H L H P L D L H P P H L H P P H D P P D D L H D D D H L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 50 najlepsi fitness 5.031935483870968
+Cesta zaciatok.
+ H L H P L D L H P P H L H P P H D P P D D L H D H D D D H L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 60 najlepsi fitness 5.031935483870968
+Cesta zaciatok.
+ H L H P L D L H P P H L H P P H D P P D D L H D D D H L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 70 najlepsi fitness 5.031935483870968
+Cesta zaciatok.
+ H L H P L D L H P P H L H P P H D P P D D L H D D D H L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 80 najlepsi fitness 5.038076923076923
+Cesta zaciatok.
+ H L H P L D L H P P H L H P P H D P P D D L H D L D
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 90 najlepsi fitness 5.038076923076923
+Cesta zaciatok.
+ H L H P L D L H P P H L H P P H D P P D D L H D L D
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 100 najlepsi fitness 5.038076923076923
+Cesta zaciatok.
+ H L H P L D L H P P H L H P P H D P P D D L H D L D
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 110 najlepsi fitness 5.038076923076923
+Cesta zaciatok.
+ H L H P L D L H P P H L H P P H D P P D D L H D L D
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 120 najlepsi fitness 5.038076923076923
+Cesta zaciatok.
+ H L H P L D L H P P H L H P P H D P P D D L H D L D
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 130 najlepsi fitness 5.038076923076923
+Cesta zaciatok.
+ H L H P L D L H P P H L H P P H D P P D D L H D L D
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 140 najlepsi fitness 5.038076923076923
+Cesta zaciatok.
+ H L H P L D L H P P H L H P P H D P P D D L H D L D
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 150 najlepsi fitness 5.038076923076923
+Cesta zaciatok.
+ H L H P L D L H P P H L H P P H D P P D D L H D L D
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 160 najlepsi fitness 5.038076923076923
+Cesta zaciatok.
+ H L H P L D L H P P H L H P P H D P P D D L H D L D
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 170 najlepsi fitness 5.038076923076923
+Cesta zaciatok.
+ H L H P L D L H P P H L H P P H D P P D D L H D L D
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 180 najlepsi fitness 5.038076923076923
+Cesta zaciatok.
+ H L H P L D L H P P H L H P P H D P P D D L H D L D
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 190 najlepsi fitness 5.038076923076923
+Cesta zaciatok.
+ H L H P L D L H P P H L H P P H D P P D D L H D L D
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 200 najlepsi fitness 5.038076923076923
+Cesta zaciatok.
+ H L H P L D L H P P H L H P P H D P P D D L H D L D
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 210 najlepsi fitness 5.038076923076923
+Cesta zaciatok.
+ H L H P L D L H P P H L H P P H D P P D D L H D L D
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 220 najlepsi fitness 5.038076923076923
+Cesta zaciatok.
+ H L H P L D L H P P H L H P P H D P P D D L H D L D
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 230 najlepsi fitness 5.0396
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P H D L L D D
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 240 najlepsi fitness 5.0396
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P H D L L D D
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 250 najlepsi fitness 5.0396
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P H D L L D D
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 260 najlepsi fitness 5.04304347826087
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 270 najlepsi fitness 5.04304347826087
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 280 najlepsi fitness 5.045
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 290 najlepsi fitness 5.045
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 300 najlepsi fitness 5.045
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 310 najlepsi fitness 5.045
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 320 najlepsi fitness 5.045
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 330 najlepsi fitness 5.045
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 340 najlepsi fitness 5.045
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 350 najlepsi fitness 5.045
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 360 najlepsi fitness 5.045
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 370 najlepsi fitness 5.045
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 380 najlepsi fitness 5.045
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 390 najlepsi fitness 5.045
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 400 najlepsi fitness 5.045
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 410 najlepsi fitness 5.045
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 420 najlepsi fitness 5.045
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 430 najlepsi fitness 5.045
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 440 najlepsi fitness 5.045
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 450 najlepsi fitness 5.045
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 460 najlepsi fitness 5.045
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 470 najlepsi fitness 5.045
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 480 najlepsi fitness 5.045
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Generacia c. 490 najlepsi fitness 5.045
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.
+Totalne najlepsi bol:
+Cesta zaciatok.
+ H L D H H L H P P H L H P P D D P P D D L L
+Nasiel som vsetky poklady.
+
+Cesta koniec.

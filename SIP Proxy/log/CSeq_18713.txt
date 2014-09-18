@@ -1,0 +1,27 @@
+Request:
+SUBSCRIBE sip:201@local SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjed24224878474d1ebb65f04d5eeede09;received=192.168.10.155
+Max-Forwards: 70
+From: "Mikado" <sip:201@local>;tag=6eb5f3fabd894419a1389848f39233bf
+To: <sip:201@local>
+Contact: <sip:bveaxiud@192.168.10.155:53916>
+Call-ID: 834fb3d0d66147678ba3ec5673c6cb84
+CSeq: 18713 SUBSCRIBE
+Event: message-summary
+Expires: 3600
+Accept: application/simple-message-summary
+Allow-Events: conference,message-summary,dialog,presence,presence.winfo,xcap-diff,dialog.winfo,refer
+User-Agent: Blink 0.2.10 (Windows)
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 489 Bad Event
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjed24224878474d1ebb65f04d5eeede09;received=192.168.10.155
+From: "Mikado" <sip:201@local>;tag=6eb5f3fabd894419a1389848f39233bf
+To: <sip:201@local>
+Call-ID: 834fb3d0d66147678ba3ec5673c6cb84
+CSeq: 18713 SUBSCRIBE
+Content-Length: 0
+
+

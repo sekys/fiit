@@ -1,0 +1,6 @@
+proxy.port=5061
+proxy.realm=local.sk
+database.ip=127.0.0.1
+database.dbname=proxy
+database.name=root
+database.pass=root

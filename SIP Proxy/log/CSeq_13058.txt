@@ -1,0 +1,54 @@
+Request:
+SUBSCRIBE sip:200@local SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.159:64893;rport=64893;branch=z9hG4bKPje02077a283854a0da9abbaecf5495f9c;received=192.168.10.159
+Max-Forwards: 70
+From: "Dokonaly" <sip:200@local>;tag=91a4e0b802c745138790fd8aa59fa280
+To: <sip:200@local>
+Contact: <sip:ovjnekdr@192.168.10.159:64893>
+Call-ID: ea713cd08c4c4e9c9897bf39491a966d
+CSeq: 13058 SUBSCRIBE
+Event: message-summary
+Expires: 3600
+Accept: application/simple-message-summary
+Allow-Events: conference,message-summary,dialog,presence,presence.winfo,xcap-diff,dialog.winfo,refer
+User-Agent: Blink 0.2.10 (Windows)
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 489 Bad Event
+Via: SIP/2.0/UDP 192.168.10.159:64893;rport=64893;branch=z9hG4bKPje02077a283854a0da9abbaecf5495f9c;received=192.168.10.159
+From: "Dokonaly" <sip:200@local>;tag=91a4e0b802c745138790fd8aa59fa280
+To: <sip:200@local>
+Call-ID: ea713cd08c4c4e9c9897bf39491a966d
+CSeq: 13058 SUBSCRIBE
+Content-Length: 0
+
+
+Request:
+SUBSCRIBE sip:200@local SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.159:64893;rport=64893;branch=z9hG4bKPje02077a283854a0da9abbaecf5495f9c;received=192.168.10.159
+Max-Forwards: 70
+From: "Dokonaly" <sip:200@local>;tag=91a4e0b802c745138790fd8aa59fa280
+To: <sip:200@local>
+Contact: <sip:ovjnekdr@192.168.10.159:64893>
+Call-ID: ea713cd08c4c4e9c9897bf39491a966d
+CSeq: 13058 SUBSCRIBE
+Event: message-summary
+Expires: 3600
+Accept: application/simple-message-summary
+Allow-Events: conference,message-summary,dialog,presence,presence.winfo,xcap-diff,dialog.winfo,refer
+User-Agent: Blink 0.2.10 (Windows)
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 489 Bad Event
+Via: SIP/2.0/UDP 192.168.10.159:64893;rport=64893;branch=z9hG4bKPje02077a283854a0da9abbaecf5495f9c;received=192.168.10.159
+From: "Dokonaly" <sip:200@local>;tag=91a4e0b802c745138790fd8aa59fa280
+To: <sip:200@local>
+Call-ID: ea713cd08c4c4e9c9897bf39491a966d
+CSeq: 13058 SUBSCRIBE
+Content-Length: 0
+
+

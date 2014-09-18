@@ -1,0 +1,27 @@
+Request:
+SUBSCRIBE sip:200@local SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.156:64472;rport=64472;branch=z9hG4bKPjd3acd50667444c9b8dfccf8635fa0226;received=192.168.10.156
+Max-Forwards: 70
+From: "Klingac" <sip:200@local>;tag=5b6bb00d8d3a4d9cb5b8b964d0b2984c
+To: <sip:200@local>
+Contact: <sip:nlxkqrth@192.168.10.156:64472>
+Call-ID: 5a628dc51f2a4020bf43b5bc01dbbb63
+CSeq: 12296 SUBSCRIBE
+Event: message-summary
+Expires: 3600
+Accept: application/simple-message-summary
+Allow-Events: conference,message-summary,dialog,presence,presence.winfo,xcap-diff,dialog.winfo,refer
+User-Agent: Blink 0.2.10 (Windows)
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 489 Bad Event
+Via: SIP/2.0/UDP 192.168.10.156:64472;rport=64472;branch=z9hG4bKPjd3acd50667444c9b8dfccf8635fa0226;received=192.168.10.156
+From: "Klingac" <sip:200@local>;tag=5b6bb00d8d3a4d9cb5b8b964d0b2984c
+To: <sip:200@local>
+Call-ID: 5a628dc51f2a4020bf43b5bc01dbbb63
+CSeq: 12296 SUBSCRIBE
+Content-Length: 0
+
+

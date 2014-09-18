@@ -1,0 +1,54 @@
+Request:
+SUBSCRIBE sip:201@local SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPje57eb94429fd44f38bb40430982c7b04;received=192.168.10.155
+Max-Forwards: 70
+From: "Mikado" <sip:201@local>;tag=8b95734c6813492f853361bd85a1ff92
+To: <sip:201@local>
+Contact: <sip:bveaxiud@192.168.10.155:53916>
+Call-ID: ac6f26dcf11549ad91be8a96a398839a
+CSeq: 11641 SUBSCRIBE
+Event: message-summary
+Expires: 3600
+Accept: application/simple-message-summary
+Allow-Events: conference,message-summary,dialog,presence,presence.winfo,xcap-diff,dialog.winfo,refer
+User-Agent: Blink 0.2.10 (Windows)
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 489 Bad Event
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPje57eb94429fd44f38bb40430982c7b04;received=192.168.10.155
+From: "Mikado" <sip:201@local>;tag=8b95734c6813492f853361bd85a1ff92
+To: <sip:201@local>
+Call-ID: ac6f26dcf11549ad91be8a96a398839a
+CSeq: 11641 SUBSCRIBE
+Content-Length: 0
+
+
+Request:
+SUBSCRIBE sip:201@local SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPje57eb94429fd44f38bb40430982c7b04;received=192.168.10.155
+Max-Forwards: 70
+From: "Mikado" <sip:201@local>;tag=8b95734c6813492f853361bd85a1ff92
+To: <sip:201@local>
+Contact: <sip:bveaxiud@192.168.10.155:53916>
+Call-ID: ac6f26dcf11549ad91be8a96a398839a
+CSeq: 11641 SUBSCRIBE
+Event: message-summary
+Expires: 3600
+Accept: application/simple-message-summary
+Allow-Events: conference,message-summary,dialog,presence,presence.winfo,xcap-diff,dialog.winfo,refer
+User-Agent: Blink 0.2.10 (Windows)
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 489 Bad Event
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPje57eb94429fd44f38bb40430982c7b04;received=192.168.10.155
+From: "Mikado" <sip:201@local>;tag=8b95734c6813492f853361bd85a1ff92
+To: <sip:201@local>
+Call-ID: ac6f26dcf11549ad91be8a96a398839a
+CSeq: 11641 SUBSCRIBE
+Content-Length: 0
+
+

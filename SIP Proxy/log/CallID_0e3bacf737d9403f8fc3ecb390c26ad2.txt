@@ -1,0 +1,416 @@
+Request:
+INVITE sip:200@local SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Max-Forwards: 70
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>
+Contact: <sip:bveaxiud@192.168.10.155:53916>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+CSeq: 17699 INVITE
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+Supported: 100rel,replaces,norefersub,gruu
+User-Agent: Blink 0.2.10 (Windows)
+Content-Type: application/sdp
+Content-Length: 378
+
+v=0
+o=- 3563537409 3563537409 IN IP4 192.168.10.155
+s=Blink 0.2.10 (Windows)
+c=IN IP4 192.168.10.155
+t=0 0
+m=audio 50014 RTP/AVP 9 104 103 102 0 8 101
+a=rtcp:50015
+a=rtpmap:9 G722/8000
+a=rtpmap:104 speex/32000
+a=rtpmap:103 speex/16000
+a=rtpmap:102 speex/8000
+a=rtpmap:0 PCMU/8000
+a=rtpmap:8 PCMA/8000
+a=rtpmap:101 telephone-event/8000
+a=fmtp:101 0-15
+a=sendrecv
+
+Posielam:
+INVITE sip:nlxkqrth@192.168.10.156:64472 SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.154:5061;branch=z9hg4bk1249712600,SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>
+Contact: <sip:bveaxiud@192.168.10.155:53916>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+CSeq: 17699 INVITE
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+Supported: 100rel,replaces,norefersub,gruu
+Content-Type: application/sdp
+Max-Forwards: 69
+User-Agent: Proxy 1.0 Windows 7
+Record-Route: <sip:192.168.10.154:5061;lr>
+Content-Length: 378
+
+v=0
+o=- 3563537409 3563537409 IN IP4 192.168.10.155
+s=Blink 0.2.10 (Windows)
+c=IN IP4 192.168.10.155
+t=0 0
+m=audio 50014 RTP/AVP 9 104 103 102 0 8 101
+a=rtcp:50015
+a=rtpmap:9 G722/8000
+a=rtpmap:104 speex/32000
+a=rtpmap:103 speex/16000
+a=rtpmap:102 speex/8000
+a=rtpmap:0 PCMU/8000
+a=rtpmap:8 PCMA/8000
+a=rtpmap:101 telephone-event/8000
+a=fmtp:101 0-15
+a=sendrecv
+
+Response:
+SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 192.168.10.154:5061;branch=z9hg4bk1249712600;received=192.168.10.154,SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+User-Agent: Proxy 1.0 Windows 7
+Content-Length: 0
+
+
+Response:
+SIP/2.0 180 Ringing
+Via: SIP/2.0/UDP 192.168.10.154:5061;branch=z9hg4bk1249712600;received=192.168.10.154,SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>;tag=075289a39b43466e9972ffa74d578a0d
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Contact: <sip:nlxkqrth@192.168.10.156:64472>
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 180 Ringing
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>;tag=075289a39b43466e9972ffa74d578a0d
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Contact: <sip:nlxkqrth@192.168.10.156:64472>
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+User-Agent: Proxy 1.0 Windows 7
+Content-Length: 0
+
+
+Response:
+SIP/2.0 603 Decline
+Via: SIP/2.0/UDP 192.168.10.154:5061;branch=z9hg4bk1249712600;received=192.168.10.154,SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>;tag=075289a39b43466e9972ffa74d578a0d
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 603 Decline
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>;tag=075289a39b43466e9972ffa74d578a0d
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+User-Agent: Proxy 1.0 Windows 7
+Content-Length: 0
+
+
+Response:
+SIP/2.0 603 Decline
+Via: SIP/2.0/UDP 192.168.10.154:5061;branch=z9hg4bk1249712600;received=192.168.10.154,SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>;tag=075289a39b43466e9972ffa74d578a0d
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 603 Decline
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>;tag=075289a39b43466e9972ffa74d578a0d
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+User-Agent: Proxy 1.0 Windows 7
+Content-Length: 0
+
+
+Response:
+SIP/2.0 603 Decline
+Via: SIP/2.0/UDP 192.168.10.154:5061;branch=z9hg4bk1249712600;received=192.168.10.154,SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>;tag=075289a39b43466e9972ffa74d578a0d
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 603 Decline
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>;tag=075289a39b43466e9972ffa74d578a0d
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+User-Agent: Proxy 1.0 Windows 7
+Content-Length: 0
+
+
+Response:
+SIP/2.0 603 Decline
+Via: SIP/2.0/UDP 192.168.10.154:5061;branch=z9hg4bk1249712600;received=192.168.10.154,SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>;tag=075289a39b43466e9972ffa74d578a0d
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 603 Decline
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>;tag=075289a39b43466e9972ffa74d578a0d
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+User-Agent: Proxy 1.0 Windows 7
+Content-Length: 0
+
+
+Response:
+SIP/2.0 603 Decline
+Via: SIP/2.0/UDP 192.168.10.154:5061;branch=z9hg4bk1249712600;received=192.168.10.154,SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>;tag=075289a39b43466e9972ffa74d578a0d
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 603 Decline
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>;tag=075289a39b43466e9972ffa74d578a0d
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+User-Agent: Proxy 1.0 Windows 7
+Content-Length: 0
+
+
+Response:
+SIP/2.0 603 Decline
+Via: SIP/2.0/UDP 192.168.10.154:5061;branch=z9hg4bk1249712600;received=192.168.10.154,SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>;tag=075289a39b43466e9972ffa74d578a0d
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 603 Decline
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>;tag=075289a39b43466e9972ffa74d578a0d
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+User-Agent: Proxy 1.0 Windows 7
+Content-Length: 0
+
+
+Response:
+SIP/2.0 603 Decline
+Via: SIP/2.0/UDP 192.168.10.154:5061;branch=z9hg4bk1249712600;received=192.168.10.154,SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>;tag=075289a39b43466e9972ffa74d578a0d
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 603 Decline
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>;tag=075289a39b43466e9972ffa74d578a0d
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+User-Agent: Proxy 1.0 Windows 7
+Content-Length: 0
+
+
+Response:
+SIP/2.0 603 Decline
+Via: SIP/2.0/UDP 192.168.10.154:5061;branch=z9hg4bk1249712600;received=192.168.10.154,SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>;tag=075289a39b43466e9972ffa74d578a0d
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 603 Decline
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>;tag=075289a39b43466e9972ffa74d578a0d
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+User-Agent: Proxy 1.0 Windows 7
+Content-Length: 0
+
+
+Response:
+SIP/2.0 603 Decline
+Via: SIP/2.0/UDP 192.168.10.154:5061;branch=z9hg4bk1249712600;received=192.168.10.154,SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>;tag=075289a39b43466e9972ffa74d578a0d
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 603 Decline
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>;tag=075289a39b43466e9972ffa74d578a0d
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+User-Agent: Proxy 1.0 Windows 7
+Content-Length: 0
+
+
+Response:
+SIP/2.0 603 Decline
+Via: SIP/2.0/UDP 192.168.10.154:5061;branch=z9hg4bk1249712600;received=192.168.10.154,SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>;tag=075289a39b43466e9972ffa74d578a0d
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 603 Decline
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>;tag=075289a39b43466e9972ffa74d578a0d
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+User-Agent: Proxy 1.0 Windows 7
+Content-Length: 0
+
+
+Response:
+SIP/2.0 603 Decline
+Via: SIP/2.0/UDP 192.168.10.154:5061;branch=z9hg4bk1249712600;received=192.168.10.154,SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>;tag=075289a39b43466e9972ffa74d578a0d
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 603 Decline
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPjd85441cfe36744279d244c0bea548c37;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 0e3bacf737d9403f8fc3ecb390c26ad2
+From: "Mikado" <sip:201@local>;tag=cb950df4e32841b88cfbb40820db45c4
+To: <sip:200@local>;tag=075289a39b43466e9972ffa74d578a0d
+CSeq: 17699 INVITE
+Server: Blink 0.2.10 (Windows)
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+User-Agent: Proxy 1.0 Windows 7
+Content-Length: 0
+
+

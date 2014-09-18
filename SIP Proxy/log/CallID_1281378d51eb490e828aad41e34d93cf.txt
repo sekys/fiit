@@ -1,0 +1,251 @@
+Request:
+INVITE sip:201@local SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.159:55348;rport=55348;branch=z9hG4bKPjd7904f635b104d8e9e9addf3fdd0c72e;received=192.168.10.159
+Max-Forwards: 70
+From: "Dokonaly" <sip:200@local>;tag=b2c11ebd89404921aab6513b47c98818
+To: <sip:201@local>
+Contact: <sip:sbknelqy@192.168.10.159:55348>
+Call-ID: 1281378d51eb490e828aad41e34d93cf
+CSeq: 18289 INVITE
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+Supported: 100rel,replaces,norefersub,gruu
+User-Agent: Blink 0.2.10 (Windows)
+Content-Type: application/sdp
+Content-Length: 378
+
+v=0
+o=- 3563533246 3563533246 IN IP4 192.168.10.159
+s=Blink 0.2.10 (Windows)
+c=IN IP4 192.168.10.159
+t=0 0
+m=audio 50002 RTP/AVP 9 104 103 102 0 8 101
+a=rtcp:50003
+a=rtpmap:9 G722/8000
+a=rtpmap:104 speex/32000
+a=rtpmap:103 speex/16000
+a=rtpmap:102 speex/8000
+a=rtpmap:0 PCMU/8000
+a=rtpmap:8 PCMA/8000
+a=rtpmap:101 telephone-event/8000
+a=fmtp:101 0-15
+a=sendrecv
+
+Posielam:
+INVITE sip:bveaxiud@192.168.10.155:53916 SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.154:5061;branch=z9hg4bk-140713011,SIP/2.0/UDP 192.168.10.159:55348;rport=55348;branch=z9hG4bKPjd7904f635b104d8e9e9addf3fdd0c72e;received=192.168.10.159
+From: "Dokonaly" <sip:200@local>;tag=b2c11ebd89404921aab6513b47c98818
+To: <sip:201@local>
+Contact: <sip:sbknelqy@192.168.10.159:55348>
+Call-ID: 1281378d51eb490e828aad41e34d93cf
+CSeq: 18289 INVITE
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+Supported: 100rel,replaces,norefersub,gruu
+Content-Type: application/sdp
+Max-Forwards: 69
+User-Agent: Proxy 1.0 Windows 7
+Record-Route: <sip:192.168.10.154:5061;lr>
+Content-Length: 378
+
+v=0
+o=- 3563533246 3563533246 IN IP4 192.168.10.159
+s=Blink 0.2.10 (Windows)
+c=IN IP4 192.168.10.159
+t=0 0
+m=audio 50002 RTP/AVP 9 104 103 102 0 8 101
+a=rtcp:50003
+a=rtpmap:9 G722/8000
+a=rtpmap:104 speex/32000
+a=rtpmap:103 speex/16000
+a=rtpmap:102 speex/8000
+a=rtpmap:0 PCMU/8000
+a=rtpmap:8 PCMA/8000
+a=rtpmap:101 telephone-event/8000
+a=fmtp:101 0-15
+a=sendrecv
+
+Response:
+SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 192.168.10.154:5061;branch=z9hg4bk-140713011;received=192.168.10.154,SIP/2.0/UDP 192.168.10.159:55348;rport=55348;branch=z9hG4bKPjd7904f635b104d8e9e9addf3fdd0c72e;received=192.168.10.159
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 1281378d51eb490e828aad41e34d93cf
+From: "Dokonaly" <sip:200@local>;tag=b2c11ebd89404921aab6513b47c98818
+To: <sip:201@local>
+CSeq: 18289 INVITE
+Server: Blink 0.2.10 (Windows)
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 192.168.10.159:55348;rport=55348;branch=z9hG4bKPjd7904f635b104d8e9e9addf3fdd0c72e;received=192.168.10.159
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 1281378d51eb490e828aad41e34d93cf
+From: "Dokonaly" <sip:200@local>;tag=b2c11ebd89404921aab6513b47c98818
+To: <sip:201@local>
+CSeq: 18289 INVITE
+Server: Blink 0.2.10 (Windows)
+User-Agent: Proxy 1.0 Windows 7
+Content-Length: 0
+
+
+Response:
+SIP/2.0 180 Ringing
+Via: SIP/2.0/UDP 192.168.10.154:5061;branch=z9hg4bk-140713011;received=192.168.10.154,SIP/2.0/UDP 192.168.10.159:55348;rport=55348;branch=z9hG4bKPjd7904f635b104d8e9e9addf3fdd0c72e;received=192.168.10.159
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 1281378d51eb490e828aad41e34d93cf
+From: "Dokonaly" <sip:200@local>;tag=b2c11ebd89404921aab6513b47c98818
+To: <sip:201@local>;tag=ad271e8efa83422597db19274e648284
+CSeq: 18289 INVITE
+Server: Blink 0.2.10 (Windows)
+Contact: <sip:bveaxiud@192.168.10.155:53916>
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 180 Ringing
+Via: SIP/2.0/UDP 192.168.10.159:55348;rport=55348;branch=z9hG4bKPjd7904f635b104d8e9e9addf3fdd0c72e;received=192.168.10.159
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 1281378d51eb490e828aad41e34d93cf
+From: "Dokonaly" <sip:200@local>;tag=b2c11ebd89404921aab6513b47c98818
+To: <sip:201@local>;tag=ad271e8efa83422597db19274e648284
+CSeq: 18289 INVITE
+Server: Blink 0.2.10 (Windows)
+Contact: <sip:bveaxiud@192.168.10.155:53916>
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+User-Agent: Proxy 1.0 Windows 7
+Content-Length: 0
+
+
+Response:
+SIP/2.0 200 OK
+Via: SIP/2.0/UDP 192.168.10.154:5061;branch=z9hg4bk-140713011;received=192.168.10.154,SIP/2.0/UDP 192.168.10.159:55348;rport=55348;branch=z9hG4bKPjd7904f635b104d8e9e9addf3fdd0c72e;received=192.168.10.159
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 1281378d51eb490e828aad41e34d93cf
+From: "Dokonaly" <sip:200@local>;tag=b2c11ebd89404921aab6513b47c98818
+To: <sip:201@local>;tag=ad271e8efa83422597db19274e648284
+CSeq: 18289 INVITE
+Server: Blink 0.2.10 (Windows)
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+Contact: <sip:bveaxiud@192.168.10.155:53916>
+Supported: 100rel,replaces,norefersub,gruu
+Content-Type: application/sdp
+Content-Length: 241
+
+v=0
+o=- 3563533254 3563533255 IN IP4 192.168.10.155
+s=Blink 0.2.10 (Windows)
+c=IN IP4 192.168.10.155
+t=0 0
+m=audio 50002 RTP/AVP 9 101
+a=rtcp:50003
+a=rtpmap:9 G722/8000
+a=rtpmap:101 telephone-event/8000
+a=fmtp:101 0-15
+a=sendrecv
+
+Posielam:
+SIP/2.0 200 OK
+Via: SIP/2.0/UDP 192.168.10.159:55348;rport=55348;branch=z9hG4bKPjd7904f635b104d8e9e9addf3fdd0c72e;received=192.168.10.159
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 1281378d51eb490e828aad41e34d93cf
+From: "Dokonaly" <sip:200@local>;tag=b2c11ebd89404921aab6513b47c98818
+To: <sip:201@local>;tag=ad271e8efa83422597db19274e648284
+CSeq: 18289 INVITE
+Server: Blink 0.2.10 (Windows)
+Allow: SUBSCRIBE,NOTIFY,PRACK,INVITE,ACK,BYE,CANCEL,UPDATE,MESSAGE,REFER
+Contact: <sip:bveaxiud@192.168.10.155:53916>
+Supported: 100rel,replaces,norefersub,gruu
+Content-Type: application/sdp
+User-Agent: Proxy 1.0 Windows 7
+Content-Length: 241
+
+v=0
+o=- 3563533254 3563533255 IN IP4 192.168.10.155
+s=Blink 0.2.10 (Windows)
+c=IN IP4 192.168.10.155
+t=0 0
+m=audio 50002 RTP/AVP 9 101
+a=rtcp:50003
+a=rtpmap:9 G722/8000
+a=rtpmap:101 telephone-event/8000
+a=fmtp:101 0-15
+a=sendrecv
+
+Request:
+ACK sip:bveaxiud@192.168.10.155:53916 SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.159:55348;rport=55348;branch=z9hG4bKPj851ad5f37eac48808a4978c3b294cb84;received=192.168.10.159
+Max-Forwards: 70
+From: "Dokonaly" <sip:200@local>;tag=b2c11ebd89404921aab6513b47c98818
+To: <sip:201@local>;tag=ad271e8efa83422597db19274e648284
+Call-ID: 1281378d51eb490e828aad41e34d93cf
+CSeq: 18289 ACK
+Route: <sip:192.168.10.154:5061;lr>
+User-Agent: Blink 0.2.10 (Windows)
+Content-Length: 0
+
+
+Posielam:
+ACK sip:bveaxiud@192.168.10.155:53916 SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.154:5061;branch=z9hg4bk1387021749,SIP/2.0/UDP 192.168.10.159:55348;rport=55348;branch=z9hG4bKPj851ad5f37eac48808a4978c3b294cb84;received=192.168.10.159
+From: "Dokonaly" <sip:200@local>;tag=b2c11ebd89404921aab6513b47c98818
+To: <sip:201@local>;tag=ad271e8efa83422597db19274e648284
+Call-ID: 1281378d51eb490e828aad41e34d93cf
+CSeq: 18289 ACK
+Max-Forwards: 69
+User-Agent: Proxy 1.0 Windows 7
+Record-Route: <sip:192.168.10.154:5061;lr>
+Content-Length: 0
+
+
+Request:
+BYE sip:sbknelqy@192.168.10.159:55348 SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPj8dee2adad2a14fcd9e1f39f0afd35527;received=192.168.10.155
+Max-Forwards: 70
+From: <sip:201@local>;tag=ad271e8efa83422597db19274e648284
+To: "Dokonaly" <sip:200@local>;tag=b2c11ebd89404921aab6513b47c98818
+Call-ID: 1281378d51eb490e828aad41e34d93cf
+CSeq: 18467 BYE
+Route: <sip:192.168.10.154:5061;lr>
+User-Agent: Blink 0.2.10 (Windows)
+Content-Length: 0
+
+
+Posielam:
+BYE sip:sbknelqy@192.168.10.159:55348 SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.154:5061;branch=z9hg4bk-1330551348,SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPj8dee2adad2a14fcd9e1f39f0afd35527;received=192.168.10.155
+From: <sip:201@local>;tag=ad271e8efa83422597db19274e648284
+To: "Dokonaly" <sip:200@local>;tag=b2c11ebd89404921aab6513b47c98818
+Call-ID: 1281378d51eb490e828aad41e34d93cf
+CSeq: 18467 BYE
+Max-Forwards: 69
+User-Agent: Proxy 1.0 Windows 7
+Record-Route: <sip:192.168.10.154:5061;lr>
+Content-Length: 0
+
+
+Response:
+SIP/2.0 200 OK
+Via: SIP/2.0/UDP 192.168.10.154:5061;branch=z9hg4bk-1330551348;received=192.168.10.154,SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPj8dee2adad2a14fcd9e1f39f0afd35527;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 1281378d51eb490e828aad41e34d93cf
+From: <sip:201@local>;tag=ad271e8efa83422597db19274e648284
+To: "Dokonaly" <sip:200@local>;tag=b2c11ebd89404921aab6513b47c98818
+CSeq: 18467 BYE
+Server: Blink 0.2.10 (Windows)
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 200 OK
+Via: SIP/2.0/UDP 192.168.10.155:53916;rport=53916;branch=z9hG4bKPj8dee2adad2a14fcd9e1f39f0afd35527;received=192.168.10.155
+Record-Route: <sip:192.168.10.154:5061;lr>
+Call-ID: 1281378d51eb490e828aad41e34d93cf
+From: <sip:201@local>;tag=ad271e8efa83422597db19274e648284
+To: "Dokonaly" <sip:200@local>;tag=b2c11ebd89404921aab6513b47c98818
+CSeq: 18467 BYE
+Server: Blink 0.2.10 (Windows)
+User-Agent: Proxy 1.0 Windows 7
+Content-Length: 0
+
+

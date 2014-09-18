@@ -1,0 +1,27 @@
+Request:
+SUBSCRIBE sip:200@local SIP/2.0
+Via: SIP/2.0/UDP 192.168.10.159:55348;rport=55348;branch=z9hG4bKPjdb3e0e108583481e96a79b7a2964e304;received=192.168.10.159
+Max-Forwards: 70
+From: "Dokonaly" <sip:200@local>;tag=da203158eb1b4a17b370b9357f281325
+To: <sip:200@local>
+Contact: <sip:sbknelqy@192.168.10.159:55348>
+Call-ID: bdb09dad37c24d7f98a9cf9824b44c1b
+CSeq: 14242 SUBSCRIBE
+Event: message-summary
+Expires: 3600
+Accept: application/simple-message-summary
+Allow-Events: conference,message-summary,dialog,presence,presence.winfo,xcap-diff,dialog.winfo,refer
+User-Agent: Blink 0.2.10 (Windows)
+Content-Length: 0
+
+
+Posielam:
+SIP/2.0 489 Bad Event
+Via: SIP/2.0/UDP 192.168.10.159:55348;rport=55348;branch=z9hG4bKPjdb3e0e108583481e96a79b7a2964e304;received=192.168.10.159
+From: "Dokonaly" <sip:200@local>;tag=da203158eb1b4a17b370b9357f281325
+To: <sip:200@local>
+Call-ID: bdb09dad37c24d7f98a9cf9824b44c1b
+CSeq: 14242 SUBSCRIBE
+Content-Length: 0
+
+

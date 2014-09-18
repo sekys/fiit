@@ -1,0 +1,8 @@
+Cas: Thu May 09 16:32:38 CEST 2013 Sprava: Senzor:Postriekovac alarm. zapinam
+Cas: Thu May 09 16:32:38 CEST 2013 Sprava: Senzor:Postriekovac alarm. vypinam
+Cas: Thu May 09 16:32:38 CEST 2013 Sprava: Senzor:Postriekovac alarm. zapinam
+Cas: Thu May 09 16:32:38 CEST 2013 Sprava: Senzor:Postriekovac alarm. vypinam
+Cas: Thu May 09 16:32:38 CEST 2013 Sprava: Senzor:Postriekovac alarm. zapinam
+Cas: Thu May 09 16:32:38 CEST 2013 Sprava: Senzor:Postriekovac alarm. vypinam
+Cas: Thu May 09 16:32:41 CEST 2013 Sprava: Senzor:Postriekovac alarm. zapinam
+Cas: Thu May 09 16:32:43 CEST 2013 Sprava: Senzor:Postriekovac alarm. vypinam

@@ -1,0 +1,67 @@
+FIAT1
+start
+otazka (Aky typ karoserie sa vam paci: sedan hatchback)(karoseria !)
+
+FIAT2
+karoseria sedan
+otazka (Pozadujete pocet dveri: 4 5)(sedan !)
+
+FIAT3
+sedan 5
+pridaj vybrany Fiat Croma;sprava Fiat Croma
+
+FIAT4
+sedan 4
+otazka (Ktora naprava by mala byt pohanana: predna zadna)(naprava !)
+
+FIAT5
+naprava predna
+pridaj vybrany Fiat Tempra;sprava Fiat Tempra
+
+FIAT6
+naprava zadna
+pridaj vybrany Fiat Mirafiorri;sprava Fiat Mirafiorri
+
+FIAT7
+karoseria hatchback
+otazka (Pozadujete pocet dveri: 3 5)(hatchback !)
+
+FIAT8
+hatchback 3
+otazka (Otvorena predna maska: ano nie mriezka)(3 maska !)
+
+FIAT9
+3 maska ano
+pridaj vybrany Fiat Tipo3;sprava Fiat Tipo3
+
+FIAT10
+3 maska nie
+pridaj vybrany Fiat Punto3;sprava Fiat Punto3
+
+FIAT11
+3 maska mriezka
+pridaj vybrany Fiat Panda3;sprava Fiat Panda3
+
+FIAT12
+hatchback 5
+otazka (Otvorena predna maska: ano nie mriezka)(5 maska !)
+
+FIAT13
+5 maska ano
+pridaj vybrany Fiat Tipo5;sprava Fiat Tipo5
+
+FIAT14
+5 maska nie
+pridaj vybrany Fiat Punto5;sprava Fiat Punto5
+
+FIAT15
+5 maska mriezka
+otazka (Aky tvar svetiel sa vam paci: okruhle integrovane)(! svetla)
+
+FIAT16
+integrovane svetla
+pridaj vybrany Fiat Uno5;sprava Fiat Uno5
+
+FIAT17
+okruhle svetla
+pridaj vybrany Fiat Ritmo5;sprava Fiat Ritmo5
